@@ -19,4 +19,4 @@ Introduce el primer numero: 5
 Introduce el segundo numero: 3
 El resultado es: 8
 ,,,
-!{""}(./diagrama.png)
+!["diagramadeflujo](diagrama.png "diagramadeflujo")
