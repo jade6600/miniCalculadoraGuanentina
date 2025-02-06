@@ -1,33 +1,22 @@
 # miniCalculadoraGuanentina
 Una mini calculadores capaz de resolver las funciones basicas.
+# Calculadora Interactiva en Python
+¡Bienvenido a tu Calculadora Interactiva en Python¡ Este proyecto es una pequeña aplicacion en Python que permite realizar varias operaciones matemàticas bàsicas a traves de un menu interactivo.
 
-# Programa #1
-Programa para calcular el area y el perimetro de un circulo de radio r
-# Analisis 
+## Ejemplo de Uso
 
-## Input
-### Variables de entrada
-x: Variable 1
-y:Variable 2
-r:Resultado
-Opcion 1:suma
-Opcion 2: resta
-Opcion 3: multiplicacion
-Opcion 4: division
-Opcion 5: potenciacion
-Opcion 6:logaritmacion
+...
+Selecciona una operacion:
+1.Sumar
+2.Restar
+3.Multiplicar
+4.Dividir
+5.Potencia
+6.Logaritmo
 
-
-### Processing
-Opcion 1= X+Y
-Opcion 2= X-Y
-Opcion 3= X*Y
-Opcion 4= X/Y
-Opcion 5= X^Y
-Opcion 6= logx Y
-### output
-X,Y
-
-# Diseño
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
-# Construccion
+Introduce el numero de la operacion (1/2/3/4/5/6) :
+Introduce el primer numero: 5
+Introduce el segundo numero: 3
+El resultado es: 8
+,,,
+!{""}(./diagrama.png)
